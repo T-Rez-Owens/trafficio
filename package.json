@@ -1,0 +1,21 @@
+{
+  "name": "trafficio",
+  "version": "1.0.0",
+  "description": "A browser based game to help you evolve into a traffic guru",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test"
+  },
+  "keywords": [
+    "traffic",
+    "upgrades",
+    "guru",
+    "reality"
+  ],
+  "author": "Trezor Owens",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  }
+}
